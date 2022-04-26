@@ -1,0 +1,6 @@
+1. Conceptos
+    * Objetos: en Javascript un objeto es una coleccion de propiedades (tienen la forma clave:valor) y/o metodos (tienen la forma clave:function).
+    * Propiedas: son "atributos" de los objetos, por ejemplo, nombre: 'Cecilia'.
+    * Métodos: son tambien "atributos" de los objetos pero la diferencia que tienen con las propiedades es que estos "hacen algo", como por ejemplo, saludar: function saludar() {return 'Hola'};.
+    * Bucle for ... in: este bucle funciona como lo habiamos revisado antes solo que se usa la palabra reservada in para poder entrar en los objetos.
+    * Notacion de puntos vs notacion de corchetes: si escribo objeto.propiedad estoy llamando al valor de la propiedad del objeto a traves de su clave propiedad. Esta notacion hace exactamente lo mismo que objeto['propiedad']. Hay que tener cuidado porque en el caso de que escribamos objeto[propiedad] a lo que estamos haciendo referencia es a la variable propiedad y no al atributo o metodo del objeto en cuestion.
