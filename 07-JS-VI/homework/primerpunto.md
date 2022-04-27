@@ -1,0 +1,2 @@
+1. Conceptos:
+    * Funciones Callback: son funciones que sirven para ejecutar otras funciones. La funcion que queremos ejecutar dentro de la funcion callback se pasa como parametro y luego podemos operar con ella dentro de la funcion callback.
